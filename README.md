@@ -1,26 +1,12 @@
+<h1 align="center">Hello</h1>
+ 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
-</p>
-
-<h1 align="center">
-  Let's Connect and have a Chat!💬
-</h1>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/mudittchauhan/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
-</a>
-<a href="https://twitter.com/mudittchauhan">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
-</a>
-<a href="https://www.instagram.com/mudittchauhan/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a>
-</p>
-
-<p align="center">
-  <img src= "https://i.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.webp">
-</p>
+  <a align="center" href="https://www.linkedin.com/in/mudittchauhan/" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/mudittchauhan" />
+  </a>
+  <a align="center" href="https://www.instagram.com/mudittchauhan" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Instagram-6610F2?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/mudittchauhan" />
+  </a>
 
 ---
 
@@ -71,8 +57,8 @@ hobbies: ["Gaming", "Movies", "Driving"]
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MudittChauhan&theme=noctis_minimus&layout=compact" />
 </a>
 
-![Snake animation](https://github.com/MudittChauhan/MudittChauhan/blob/output/github-contribution-grid-snake.svg)
-  
+![snake animation](https://github.com/MudittChauhan/MudittChauhan/blob/output/github-contribution-grid-snake2.svg)
+
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
