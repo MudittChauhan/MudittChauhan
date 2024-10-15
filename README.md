@@ -18,7 +18,7 @@ technical_background:
   ]
   
 currently_learning: ["Docker, Kubernetes and React Native"]
-2023 Goals: ["Make myself skilled in DevOps tools + Get AWS Certified Associate Developer certification"]
+2025 Goals: ["Make myself skilled in DevOps tools + Get AWS Certified Associate Developer certification"]
 hobbies: ["Gaming", "Movies", "Driving"]
 ```
 
